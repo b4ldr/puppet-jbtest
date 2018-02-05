@@ -3,5 +3,5 @@
 class jbtest (
   Hash $path = {'k' => 'v'},
 ) {
-  #$a = keys($path)
+  $a = keys($path)
 }
