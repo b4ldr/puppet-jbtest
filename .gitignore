@@ -1,0 +1,7 @@
+*.sw?
+.bundle/
+.byebug_history
+Gemfile.lock
+spec/fixtures/
+types/
+vendor/

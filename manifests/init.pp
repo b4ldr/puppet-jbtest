@@ -1,7 +1,5 @@
 #
-# Stdlib::Absolutepath $path = '/asd.ads.com',
 class jbtest (
-  Hash $path = {'k' => 'v'},
+  Stdlib::Absolutepath $path = '/asd/ads.com',
 ) {
-  $a = keys($path)
 }
